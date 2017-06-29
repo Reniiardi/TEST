@@ -1,4 +1,4 @@
-<script>
+
 // DISABLE FIELDS NOT REQUESTED ;
 
 var MAJCOM = "&MAJCOM";
@@ -45,4 +45,3 @@ $(document).ready(function (){
 	}
 });
 
-</script>

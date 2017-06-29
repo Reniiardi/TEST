@@ -1,6 +1,5 @@
 
-<!-------- Custom javascript code, used in the side bar ---->
-<script>
+
 
 // FLIP ICON ON CLICK 
 $(document).on( 'click', '#subParent', function (){
@@ -57,21 +56,3 @@ function checkBox(T){
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</script>

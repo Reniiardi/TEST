@@ -1,4 +1,4 @@
-<script>
+
 /**** READ JS OBJECT BY USING A FORMAT ****/
 var fctFormat = {
 "A":"PERMANENT PARTY",
@@ -770,4 +770,3 @@ delete grdFormat;
 delete rdtmFormat;
 delete DT.Rows;
 //console.log(DT);
-</script>
