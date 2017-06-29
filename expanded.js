@@ -1,16 +1,4 @@
 
-// DISABLE FIELDS NOT REQUESTED ;
-
-var MAJCOM = "&MAJCOM";
-var TOS = "&TOS";
-var TIS = "&TIS";
-var GRADE = "&GRADE";
-var AFSC = "&AFSC";
-var DS = "&DS";
-var FC = "&FC";
-var RS = "&RS";
-var RDTM = "&RS";
-var LOC = "&LOC";
 
 $(document).ready(function (){
 	if (MAJCOM != "0"){

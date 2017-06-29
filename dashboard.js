@@ -1,8 +1,3 @@
-<script>
-
-
-
-
 
 
 
@@ -340,4 +335,3 @@ function topN(source_group, n) {
 
   // Render the Charts
   dc.renderAll();
-  </script>
