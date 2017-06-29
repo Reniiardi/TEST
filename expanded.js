@@ -1,6 +1,17 @@
 
-
 $(document).ready(function (){
+	
+	console.log(MAJCOM);
+	console.log(TOS);
+	console.log(TIS);
+	console.log(GRADE);
+	console.log(AFSC);
+	console.log(DS);
+	console.log(RS);
+	console.log(FC);
+	console.log(RDTM);
+	console.log(LOC);
+	
 	if (MAJCOM != "0"){
 		$('#dc-MAJ-chart').prop('style',"display:block;");
 	}
@@ -32,4 +43,3 @@ $(document).ready(function (){
 		$('dc-location-chart').prop('style',"display:block;");
 	}
 });
-
