@@ -39,7 +39,7 @@ var data=DT.New;
   var rdtm_obj = {}
   var maj_obj = {}
 
-  _.forEach(data, (d)=>{
+  data.forEach(function(d) {
     if (loc_obj.hasOwnProperty(d['LOCATION'])){
       loc_obj[d['LOCATION']] += 1
     }
